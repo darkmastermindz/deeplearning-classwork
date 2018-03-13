@@ -1,0 +1,3 @@
+[submodule "class-examples"]
+	path=class-examples
+	url=https://github.com/darkmastermindz/dl-class-examples.git
